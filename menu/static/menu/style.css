@@ -1,0 +1,74 @@
+body{
+    background: url('images/smile_happiness_ball_125063_1280x720.jpg') no-repeat center center fixed;
+    -webkit-backgroung-size: cover;
+    -moz-background-size : cover;
+    -o-background-size : cover;
+    background-size: cover;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    /*background-attachment: scroll;   MBA MSCORLL NY FOND ARRIÈRE*/
+}
+
+
+#small_logo{
+    margin-top: 25px;
+    margin-left: 35px;
+    
+}
+
+
+
+.menu_title{
+    margin-top: 45px;
+    margin-bottom: 50px;
+}
+.titre{
+    display: inline;
+    background-color: #dd7835;
+    padding: 8px 22px;
+}
+
+
+
+
+.menu_liste{
+    margin-left: 30px;
+}
+.menu_liste_item{
+    margin: 30px 0;
+}
+.menu_liste_title{
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-block;
+    width: 250px;
+
+}
+.menu_liste_prix{
+    font-size: 20px;
+    color: #dd7835;
+    margin-left: 20px;
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+
+}
+.menu_liste_ingredients{
+    font-size: 14px;
+    color: #c8c8c8;
+    margin-top: 4px;
+    display: block;
+    width: 320px;
+}
+.menu_liste_badge{
+    font-size: 10px;
+    font-weight: bold;
+    background-color: #dd7835;
+    color: black;
+    display: inline-block;
+    margin-top: 4px;
+    padding: 4px 5px;
+    border-radius: 8px;
+}
+

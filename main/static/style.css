@@ -1,0 +1,28 @@
+body{
+    background: url('image/peakpx(1).jpg') no-repeat center center fixed;
+    -webkit-backgroung-size: cover;
+    -moz-background-size : cover;
+    -o-background-size : cover;
+    background-size: cover;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    /*background-attachment: scroll;   MBA MSCORLL NY FOND ARRIÈRE*/
+}
+
+
+.centre{          /*Mba atao au MILIEU tsara tsisy kianina.tapena @Google: css center div on page*/ 
+    position: fixed;            
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: block;
+}
+
+#milieu {
+    font-weight: bold;
+    font-size: 50px;
+    color: black;
+    display: block;
+    border: solid;
+    border-radius: 80px;
+}
